@@ -1,0 +1,9 @@
+message,spam
+"offer is secret",spam
+"click secret link",spam
+"secret sports link",spam
+"play sports today",ham
+"went play sports",ham
+"secret sports event",ham
+"sports is today",ham
+"sports cost money",ham
